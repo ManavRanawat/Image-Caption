@@ -1,0 +1,1 @@
+The goal of this project is to develop an image captioning system that generates meaningful and coherent textual descriptions for images by lever- aging deep learning models. This involves using a convolutional neural network (CNN) as the image encoder and a recurrent neural network (RNN) as the caption decoder.
